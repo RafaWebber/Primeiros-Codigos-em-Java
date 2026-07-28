@@ -1,6 +1,6 @@
 package academy.DevWebber.letsgojava.introducao;
 /**
- * isso é um comentário <d>javadoc</d>
+ * isso é meu primeiro comentário <d>javadoc</d>
  */
 public class Aula01OlaDevWebber {
      static void main(String[] args){
