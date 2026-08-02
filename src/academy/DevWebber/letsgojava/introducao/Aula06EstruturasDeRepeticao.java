@@ -14,7 +14,7 @@ public class Aula06EstruturasDeRepeticao {
 
         int two = 7;
         do {
-            System.out.println("Dentro de do-while");
+            System.out.println("Dentro de do-while " + two);
             two++;
         }while(two<10);
 
